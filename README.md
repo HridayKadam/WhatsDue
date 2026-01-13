@@ -50,3 +50,10 @@ Node.js / Python
 
 # Status
 MVP in progress 🚧
+
+Extra features:
+- To do list, partial access to cr
+- notifications, personalised
+- slcm integration
+  
+
