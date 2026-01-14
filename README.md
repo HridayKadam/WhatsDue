@@ -23,13 +23,13 @@ All data comes directly from Microsoft Teams and Outlook.
 
 # How It Works
 
-Student (WhatsApp)
+# Student (WhatsApp)
       ↓
-   WhatsDue
+  #  WhatsDue
       ↓
-Microsoft Teams & Outlook
+# Microsoft Teams & Outlook
       ↓
-WhatsApp reply
+# WhatsApp reply
 
 
 WhatsApp is the chat.
