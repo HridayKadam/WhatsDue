@@ -1,5 +1,8 @@
 # WhatsDue
 
+#website
+https://whatsdue.vercel.app/
+
 WhatsDue is a WhatsApp bot that tells students what’s due, when, and where — using Microsoft Teams and Outlook.
 
 Instead of checking 10 places, students just message WhatsDue.
